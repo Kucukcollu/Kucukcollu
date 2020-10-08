@@ -72,7 +72,7 @@
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCw2SQt1uw87D8pS4HRXhnBw
-[linkedin]: linkedin.com/in/kucukcollu/
+[linkedin]: https://www.linkedin.com/in/kucukcollu
 [mail]: kucukcollu@outlook.com
 
 [python]: https://www.python.org/
