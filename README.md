@@ -3,9 +3,7 @@
 
 ### I'm a student at department of Mechatronics Engineering!
 
-
-### Youtube Channel: [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
+[<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
 ### Languages:
