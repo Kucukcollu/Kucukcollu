@@ -1,14 +1,13 @@
 ### Hi there, I'm Ali 👋
 
 
-## I'm a student at department of Mechatronics Engineering!
+### I'm a student at department of Mechatronics Engineering!
 
 
 ### Connect with me:
 
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Kucukcollu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kucukcollu | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" />][mail]
 
 <br />
 
@@ -18,16 +17,6 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.clipart.email/4b4f39bf4c4e5b717769e9241e1e6aaa_c-programming-logo-free-transparent-clipart-clipartkey_900-751.png" />][c]
 [<img align="left" alt="C++" width="26px" src="https://shwanoff.ru/wp-content/uploads/2018/06/c-plus-plus-logo.png" />][c++]
 [<img align="left" alt="Matlab" width="26px" src="https://i.stack.imgur.com/Lws7i.png" />][matlab]
-
-<br />
-
-### Libraries:
-
-[<img align="left" alt="Matplotlib" width="26px" src="https://pbs.twimg.com/profile_banners/839501726738755584/1489000264/1500x500" />][matplotlib]
-[<img align="left" alt="Pygame" width="26px" src="https://www.leiue.com/uploads/2019/07/Pygame.png" />][pygame]
-[<img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png" />][numpy]
-[<img align="left" alt="Pandas" width="26px" src="https://s3.amazonaws.com/coursesity-blog/2019/08/pandas-1.png" />][pandas]
-[<img align="left" alt="Opencv" width="26px" src="https://img2.freepng.ru/20180603/bch/kisspng-opencv-computer-vision-library-c-open-now-5b1390e4692f39.9683021615280089324309.jpg" />][opencv]
 
 <br />
 
@@ -73,18 +62,12 @@
 
 [youtube]: https://www.youtube.com/channel/UCw2SQt1uw87D8pS4HRXhnBw
 [linkedin]: https://www.linkedin.com/in/kucukcollu
-[mail]: kucukcollu@outlook.com
+
 
 [python]: https://www.python.org/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c++]: https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language
 [matlab]: https://www.mathworks.com/products/matlab.html
-
-[matplotlib]: https://matplotlib.org/
-[pygame]: https://www.pygame.org
-[numpy]: https://numpy.org
-[pandas]: https://pandas.pydata.org/
-[opencv]: https://opencv.org/
 
 [eclipse]: https://www.eclipse.org/
 [vsc]: https://code.visualstudio.com
