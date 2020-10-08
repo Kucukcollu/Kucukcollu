@@ -4,10 +4,8 @@
 ### I'm a student at department of Mechatronics Engineering!
 
 
-### Connect with me:
-
+### Youtube Channel:
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kucukcollu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -61,8 +59,6 @@
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCw2SQt1uw87D8pS4HRXhnBw
-[linkedin]: https://www.linkedin.com/in/kucukcollu
-
 
 [python]: https://www.python.org/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
