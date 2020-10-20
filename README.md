@@ -9,7 +9,7 @@
 ### Languages:
 
 [<img align="left" alt="Python" width="26px" src="https://uchebnik.mos.ru/system_2/game_apps/icons/000/170/470/original/py-logo.png" />][python]
-[<img align="left" alt="C" width="26px" src="https://cdn.clipart.email/4b4f39bf4c4e5b717769e9241e1e6aaa_c-programming-logo-free-transparent-clipart-clipartkey_900-751.png" />][c]
+[<img align="left" alt="C" width="26px" src="https://wpcontent.techpout.com/techpout/wp-content/uploads/2019/11/06180207/C-768x627.jpg" />][c]
 [<img align="left" alt="C++" width="26px" src="https://shwanoff.ru/wp-content/uploads/2018/06/c-plus-plus-logo.png" />][c++]
 [<img align="left" alt="Matlab" width="26px" src="https://i.stack.imgur.com/Lws7i.png" />][matlab]
 
