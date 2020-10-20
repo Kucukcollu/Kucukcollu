@@ -23,7 +23,7 @@
 <br />
 
 ### Framworks:
-[<img align="left" alt="ROS" width="26px" src="https://steemitimages.com/p/5bEGgqZEHBMf46r8g6zzbYqVuEGusr1Lw1GprP7KLFf6Dsq2m6nXkXJYiGq1CdiEtMdVeG7t5kjByiNn9ANG4Dv2Vw6kv9xz?format=match&mode=fit&width=640" />][ros]
+[<img align="left" alt="ROS" width="26px" src="https://www.robotsepeti.com/Data/EditorFiles/ros_logo.jpeg" />][ros]
 <br />
 
 ### Operating Systems:
