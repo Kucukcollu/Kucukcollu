@@ -23,7 +23,7 @@
 <br />
 
 ### Framworks:
-[<img align="left" alt="ROS" width="26px" src="https://www.hisparob.es/wp-content/uploads/2019/10/Imagen-ROS-Pilz.png" />][ros]
+[<img align="left" alt="ROS" width="26px" src="https://steemitimages.com/p/5bEGgqZEHBMf46r8g6zzbYqVuEGusr1Lw1GprP7KLFf6Dsq2m6nXkXJYiGq1CdiEtMdVeG7t5kjByiNn9ANG4Dv2Vw6kv9xz?format=match&mode=fit&width=640" />][ros]
 <br />
 
 ### Operating Systems:
