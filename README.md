@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali 👋
 
 
-### I'm a student at department of Mechatronics Engineering!
+### I'm a student at department of Mechatronics Engineering and I develop Robotics projects!
 
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
@@ -19,7 +19,6 @@
 [<img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="PyCharm" width="26px" src="https://moonz.pro/wp-content/uploads/2019/08/183-1832681_python-tool-review-pycharm-logo.png" />][pycharm]
-[<img align="left" alt="Virtual Box" width="26px" src="https://img.compbs.com/img/fix/375/how-can-i-fix-virtualboxvm.png" />][Virtual Box]
 <br />
 
 ### Framworks:
