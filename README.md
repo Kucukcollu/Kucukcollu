@@ -15,7 +15,7 @@
 
 <br />
 
-### Framworks:
+### Frameworks:
 [<img align="left" alt="ROS" width="26px" src="http://hurgroup.net/files/attach/images/608/796/008/1e5574bf1db856fe9a1d123c93c1ab68.png" />][ros]
 <br />
 
@@ -34,10 +34,6 @@
 [matlab]: https://www.mathworks.com/products/matlab.html
 
 [ros]: https://www.ros.org
-
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://en.wikipedia.org/wiki/Terminal
 
 [arduino]: https://www.arduino.cc
 [rpi]: https://www.raspberrypi.org/
