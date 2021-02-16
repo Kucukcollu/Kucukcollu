@@ -23,7 +23,7 @@
 [<img align="left" alt="Arduino" width="26px" src="https://miro.medium.com/max/1024/1*grcYwW_zgkpzP0VEsh3vOg.png" />][arduino]
 [<img align="left" alt="Raspberry pi" width="26px" src="https://www.freepngimg.com/thumb/computer/72615-raspberry-kodi-computer-flea-pi-raspbian.png" />][rpi]
 [<img align="left" alt="Nvidia" width="26px" src="https://theadvancedimagingsociety.com/wp-content/uploads/2018/12/Nvidia_logo.png" />][nvidia]
-[<img align="left" alt="PIC" width="26px" src="https://clockworks.microchip.com/microchip/sites/all/themes/mClock/images/microchiptechnologyinc_22954109574.jpg" />][PIC]
+[<img align="left" alt="PIC" width="26px" src="https://logodix.com/logo/1743243.png" />][microchip]
 
 <br />
 <br />
