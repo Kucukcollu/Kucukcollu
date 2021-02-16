@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali 👋
 
 
-### I'm a student at department of Mechatronics Engineering and I develop Robotics projects!
+### I'm a student at department of Mechatronics Engineering and I develop Robotics projects!🤖
 
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
@@ -15,25 +15,8 @@
 
 <br />
 
-### Softwares
-[<img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />][eclipse]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-[<img align="left" alt="PyCharm" width="26px" src="https://moonz.pro/wp-content/uploads/2019/08/183-1832681_python-tool-review-pycharm-logo.png" />][pycharm]
-<br />
-
 ### Framworks:
-[<img align="left" alt="ROS" width="26px" src="https://www.robotsepeti.com/Data/EditorFiles/ros_logo.jpeg" />][ros]
-<br />
-
-### Operating Systems:
-[<img align="left" alt="Windows" width="26px" src="https://www.clipartmax.com/png/full/15-152734_ms-windows-clipart-windows-7-windows-logo-png.png" />][windows]
-[<img align="left" alt="Ubuntu" width="26px" src="https://www.clipartmax.com/png/full/180-1805592_ubuntu-logo-clipart-ubuntu-transparent.png" />][ubuntu]
-<br />
-
-### Tools:
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="ROS" width="26px" src="http://hurgroup.net/files/attach/images/608/796/008/1e5574bf1db856fe9a1d123c93c1ab68.png" />][ros]
 <br />
 
 ### Controllers:
@@ -50,15 +33,7 @@
 [c++]: https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language
 [matlab]: https://www.mathworks.com/products/matlab.html
 
-[eclipse]: https://www.eclipse.org/
-[vsc]: https://code.visualstudio.com
-[pycharm]: https://www.jetbrains.com/pycharm/
-[Virtual Box]: https://www.virtualbox.org
-
 [ros]: https://www.ros.org
-
-[windows]: https://www.microsoft.com/en-us/windows
-[ubuntu]: https://ubuntu.com/
 
 [git]: https://git-scm.com/
 [github]: https://github.com/
