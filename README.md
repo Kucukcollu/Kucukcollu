@@ -1,6 +1,6 @@
 ### Hi there,
 
-### I'm a Mechatronics Engineer who currently working as Robotics Software Engineer! 🤖
+### I'm a Mechatronics Engineer who currently working as Software Engineer! 🤖
 
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
