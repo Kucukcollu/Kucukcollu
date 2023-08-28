@@ -1,6 +1,4 @@
-### Hi there,
-
-### I'm a Mechatronics Engineer who currently working as Software Engineer! 🤖
+### Autonomous Vehicle Systems Software Engineer who is coding for making cars Autonomous!
 
 [<img align="left" alt="Kucukcollu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
